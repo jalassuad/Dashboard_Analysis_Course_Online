@@ -77,7 +77,7 @@ This view focuses on comparative analysis across platforms and course categories
 ✅ This dashboard supports pricing strategy, content optimization, and category performance evaluation.
 
 ## 3️⃣ Raw Data View (Detailed Transactional Data)
-![Detailed Transactional Data](./assets/Dashboard_3_RAW Data.png)
+![Detailed Transactional Data](./assets/Dashboard_3_RAW_Data.png)
 This view provides full transparency of the dataset, allowing users to explore detailed course-level information.
 ### 📌 Information Displayed:
 
@@ -108,6 +108,7 @@ This view provides full transparency of the dataset, allowing users to explore d
 
 ## 📁 Repository Structure
 📂 Dashboard-Analysis-Course-Online
+
  ├── Dashboard_Analysis_Course_Online (D1) - Kuntur Jalassuad
  
  ├── README.md
