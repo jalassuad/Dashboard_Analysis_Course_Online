@@ -77,6 +77,7 @@ This view focuses on comparative analysis across platforms and course categories
 ✅ This dashboard supports pricing strategy, content optimization, and category performance evaluation.
 
 ## 3️⃣ Raw Data View (Detailed Transactional Data)
+![Detailed Transactional Data](./assets/Dashboard_3_RAW Data.png)
 This view provides full transparency of the dataset, allowing users to explore detailed course-level information.
 ### 📌 Information Displayed:
 
@@ -108,9 +109,13 @@ This view provides full transparency of the dataset, allowing users to explore d
 ## 📁 Repository Structure
 📂 Dashboard-Analysis-Course-Online
  ├── Dashboard_Analysis_Course_Online (D1) - Kuntur Jalassuad
+ 
  ├── README.md
+ 
  ├── assets
+ 
  └── Dataset/
+ 
      └── Online_Course_Data.xlsx
 
 
@@ -122,8 +127,7 @@ This view provides full transparency of the dataset, allowing users to explore d
 4. Use slicers to explore insights dynamically.
 
 
-📌 Author
-Kuntur Jalassuad
-Big Data Analytics | Data Analyst Enthusiast
+## 📌 Author
+Kuntur Jalassuad | Big Data Analytics | Data Analyst Enthusiast
 - **Contact**: (Kuntur Jalassuad/ jalassuad.k@gmail.com / [LinkedIn](https://www.linkedin.com/in/kuntur-jalassuad/))
 
